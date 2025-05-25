@@ -84,30 +84,16 @@ Desenvolvedor apaixonado por tecnologia, focado em **desenvolvimento mobile** e 
 ## 💡 Principais Projetos
 
 <div align="center">
-  <a href="https://github.com/zapiti/marketplace_store_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=marketplace_store_app&theme=tokyonight" alt="Marketplace App"/>
-  </a>
-  <a href="https://github.com/zapiti/marketplace_store_web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=marketplace_store_web&theme=tokyonight" alt="Marketplace Web"/>
-  </a>
-</div>
+  
+[![Marketplace Store App](https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=marketplace_store_app&theme=tokyonight)](https://github.com/zapiti/marketplace_store_app)
+[![Marketplace Store Web](https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=marketplace_store_web&theme=tokyonight)](https://github.com/zapiti/marketplace_store_web)
 
-<div align="center">
-  <a href="https://github.com/zapiti/tecnoanjos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=tecnoanjos&theme=tokyonight" alt="Tecnoanjos"/>
-  </a>
-  <a href="https://github.com/zapiti/keep_up">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=keep_up&theme=tokyonight" alt="Keep Up"/>
-  </a>
-</div>
+[![Tecnoanjos](https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=tecnoanjos&theme=tokyonight)](https://github.com/zapiti/tecnoanjos)
+[![Keep Up](https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=keep_up&theme=tokyonight)](https://github.com/zapiti/keep_up)
 
-<div align="center">
-  <a href="https://github.com/zapiti/kik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=kik&theme=tokyonight" alt="Kik Clean"/>
-  </a>
-  <a href="https://github.com/zapiti/mbs_vendas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=mbs_vendas&theme=tokyonight" alt="MBS Vendas"/>
-  </a>
+[![Kik Clean](https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=kik&theme=tokyonight)](https://github.com/zapiti/kik)
+[![MBS Vendas](https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=mbs_vendas&theme=tokyonight)](https://github.com/zapiti/mbs_vendas)
+
 </div>
 
 ### 🎯 Destaques dos Projetos:
