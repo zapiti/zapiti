@@ -49,12 +49,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **desenvolvimento mobile** e 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zapiti&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🎮 Contribuições 3D Interativas
-
-<div align="center">
-  <iframe src="https://g3c.vercel.app?menu=true&username=zapiti" width="600" height="400" frameborder="0"></iframe>
-</div>
-
 ## 🏆 Troféus GitHub
 
 <div align="center">
@@ -72,16 +66,57 @@ Desenvolvedor apaixonado por tecnologia, focado em **desenvolvimento mobile** e 
 
 </div>
 
-## 💡 Projetos em Destaque
+## 🌐 **PORTFÓLIO COMPLETO** 
 
 <div align="center">
-  <a href="https://github.com/zapiti/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=repo1&theme=tokyonight" alt="Projeto 1"/>
+  
+### 🚀 **[VER PORTFÓLIO COMPLETO](https://portfolio-c66d7.web.app/)** 🚀
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://portfolio-c66d7.web.app/)
+[![Desenvolvido com Flutter](https://img.shields.io/badge/Feito%20com-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+
+**✨ Explore todos os meus projetos de forma interativa e detalhada! ✨**
+
+</div>
+
+---
+
+## 💡 Principais Projetos
+
+<div align="center">
+  <a href="https://github.com/zapiti/marketplace_store_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=marketplace_store_app&theme=tokyonight" alt="Marketplace App"/>
   </a>
-  <a href="https://github.com/zapiti/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=repo2&theme=tokyonight" alt="Projeto 2"/>
+  <a href="https://github.com/zapiti/marketplace_store_web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=marketplace_store_web&theme=tokyonight" alt="Marketplace Web"/>
   </a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/zapiti/tecnoanjos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=tecnoanjos&theme=tokyonight" alt="Tecnoanjos"/>
+  </a>
+  <a href="https://github.com/zapiti/keep_up">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=keep_up&theme=tokyonight" alt="Keep Up"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/zapiti/kik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=kik&theme=tokyonight" alt="Kik Clean"/>
+  </a>
+  <a href="https://github.com/zapiti/mbs_vendas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zapiti&repo=mbs_vendas&theme=tokyonight" alt="MBS Vendas"/>
+  </a>
+</div>
+
+### 🎯 Destaques dos Projetos:
+
+- **🛒 Marketplace Completo** - App mobile + Web com Flutter
+- **🔧 Tecnoanjos** - Sistema completo para franquias de assistência técnica  
+- **📱 Keep Up** - App de produtividade e gerenciamento de tarefas
+- **🧹 Kik Clean** - Plataforma de agendamento de serviços de limpeza
+- **💳 MBS Vendas** - Sistema de fidelidade e pontuação
 
 ## 📊 Contribuições
 
